@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 #Building the environment
 #Intialization
 
-Delta = 0
+Delta = 0.005
 Gamma = 0.9
 Noise = 0.2
 
